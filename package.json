@@ -1,7 +1,8 @@
 {
-  "name": "ai-interview-platform",
+  "name": "thisinterview-perfect-drill",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://nathan927.github.io/thisinterview-perfect-drill",
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
     "@emotion/react": "^11.11.0",
