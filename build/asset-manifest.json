@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thisinterview-perfect-drill/static/css/main.b759aa39.css",
+    "main.js": "/thisinterview-perfect-drill/static/js/main.248017b2.js",
+    "index.html": "/thisinterview-perfect-drill/index.html",
+    "main.b759aa39.css.map": "/thisinterview-perfect-drill/static/css/main.b759aa39.css.map",
+    "main.248017b2.js.map": "/thisinterview-perfect-drill/static/js/main.248017b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b759aa39.css",
+    "static/js/main.248017b2.js"
+  ]
+}
