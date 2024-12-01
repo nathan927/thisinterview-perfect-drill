@@ -41,7 +41,7 @@ function App() {
           <PrefectDrill />
         </StyledContent>
         <StyledFooter>
-          ThisInterview @{new Date().getFullYear()}
+          ThisInterview @{new Date().getFullYear()} - All Rights Reserved.
         </StyledFooter>
       </StyledLayout>
     </ThemeProvider>

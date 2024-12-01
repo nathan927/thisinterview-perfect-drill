@@ -71,5 +71,12 @@ The application will be available at `http://localhost:3000`
    - Use "Load Progress" to restore a previous session
    - All questions, recordings, and model answers will be preserved
 
-## License
-This project is licensed under the MIT License.
+## Legal Notice
+
+** 2024 ThisInterview. All Rights Reserved.**
+
+This software and its content are protected by copyright law. All rights are reserved by ThisInterview. 
+No part of this software may be reproduced, distributed, or transmitted in any form or by any means, 
+without the prior written permission of the copyright owner.
+
+Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
